@@ -158,7 +158,7 @@ export default function Home() {
             </h2>
           </div>
           <p className="max-w-2xl self-end text-lg leading-8 text-[#647168]">
-            Inspired by the clear, community-first structure of the Karatina reference, Shule360 is taking shape around the people and everyday moments that make a school work. This is the starting point; the specific tools will grow with the needs of the school.
+            Shule360 is taking shape around the people and everyday moments that make a school work. This is the starting point; the specific tools will grow with the needs of the school.
           </p>
         </div>
       </section>
