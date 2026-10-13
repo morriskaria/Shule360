@@ -197,10 +197,10 @@ export default function Home() {
           </div>
           <a
             id="contact"
-            href="mailto:hello@shule360.com"
+            href="#about"
             className="inline-flex items-center justify-center gap-3 rounded-full bg-[#f8edda] px-6 py-4 text-sm font-semibold text-[#214e3b] transition hover:bg-white"
           >
-            Start a conversation <span aria-hidden="true">↗</span>
+            Discover the approach <span aria-hidden="true">↗</span>
           </a>
         </div>
       </section>
